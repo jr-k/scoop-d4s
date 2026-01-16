@@ -1,0 +1,22 @@
+{
+    "version": "0.42.9",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jr-k/d4s/releases/download/v0.42.9/d4s_0.42.9_windows_amd64.zip",
+            "bin": [
+                "d4s.exe"
+            ],
+            "hash": "c4150220e020426b9bc3f54452e1718ad124e00f682e7f38054b137709dfebb3"
+        },
+        "arm64": {
+            "url": "https://github.com/jr-k/d4s/releases/download/v0.42.9/d4s_0.42.9_windows_arm64.zip",
+            "bin": [
+                "d4s.exe"
+            ],
+            "hash": "f80e97d659484742d0cb57fd84a5f892267a0d2e1ed5b892caae85050dd493af"
+        }
+    },
+    "homepage": "https://d4scli.io",
+    "license": "Apache-2.0",
+    "description": "Master Docker like a pro, right from your terminal"
+}
