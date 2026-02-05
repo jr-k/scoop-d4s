@@ -6,21 +6,21 @@
             "bin": [
                 "d4s.exe"
             ],
-            "hash": "cd26b208bf2b77f8efd326086e2e0ac9f2f982fd80483aa57dce0ecab387f54b"
+            "hash": "cbc45720fa0f8f76116b3c3e884de52ea484de16af80cc218ef51ee795de542f"
         },
         "64bit": {
             "url": "https://github.com/jr-k/d4s/releases/download/v0.49.52/d4s_0.49.52_windows_amd64.zip",
             "bin": [
                 "d4s.exe"
             ],
-            "hash": "b6dcb273f05f6c13fad5589b3312d2357af8171ed7390a75c98bf9ddbd89b7de"
+            "hash": "fc550ea943a65c4d6cada82abe9a91e702224770a6d4caecf0c50fc98c2ddf11"
         },
         "arm64": {
             "url": "https://github.com/jr-k/d4s/releases/download/v0.49.52/d4s_0.49.52_windows_arm64.zip",
             "bin": [
                 "d4s.exe"
             ],
-            "hash": "c8fd7fe3bffdd32904e0f80cb5c8b6cb059215b1b4366a889fb9a9be9387b2cd"
+            "hash": "6cd8b92e363df0a5999b9cde5ff93f85d40c1ae942bb5a6b72af6724bf60c91d"
         }
     },
     "homepage": "https://d4scli.io",
