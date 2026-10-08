@@ -1,26 +1,26 @@
 {
-    "version": "0.49.109",
+    "version": "0.49.110",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jr-k/d4s/releases/download/v0.49.109/d4s_0.49.109_windows_x86.zip",
+            "url": "https://github.com/jr-k/d4s/releases/download/v0.49.110/d4s_0.49.110_windows_x86.zip",
             "bin": [
                 "d4s.exe"
             ],
-            "hash": "cf62b28bca25e2ee48e445b37a29f2378594027eb526bc29c3973308957de0b7"
+            "hash": "c579d9d087643ec1bc992eb89e8fc5d8e14bc81bc2e7652b5524c9d38eb7aa2c"
         },
         "64bit": {
-            "url": "https://github.com/jr-k/d4s/releases/download/v0.49.109/d4s_0.49.109_windows_amd64.zip",
+            "url": "https://github.com/jr-k/d4s/releases/download/v0.49.110/d4s_0.49.110_windows_amd64.zip",
             "bin": [
                 "d4s.exe"
             ],
-            "hash": "a5c23cb9665a37eda82c30697ab43dd2eda6e017e25ba9508a2005f2d184b1bf"
+            "hash": "01511a77f6348aa61c71b5e06adb117c2490d10ea109aabd702a4cf58b29b587"
         },
         "arm64": {
-            "url": "https://github.com/jr-k/d4s/releases/download/v0.49.109/d4s_0.49.109_windows_arm64.zip",
+            "url": "https://github.com/jr-k/d4s/releases/download/v0.49.110/d4s_0.49.110_windows_arm64.zip",
             "bin": [
                 "d4s.exe"
             ],
-            "hash": "d431d89b2e69bc900a5945e3944d34b72f46441de7ec8e9526d1c46534d213d4"
+            "hash": "2eee4e69989bd001089c99cadc86d3e698721ccf2551d7a5ec2e380d72477d6f"
         }
     },
     "homepage": "https://d4scli.io",
